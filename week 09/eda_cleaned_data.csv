@@ -1,0 +1,7 @@
+date,topic,duration_minutes,difficulty,notes
+2025-12-08,Course Introduction & Resources,120,2,Videos and blogs overview
+2025-12-08,Python Basics,120,2,Operators and syntax
+2025-12-09,Python Basics,240,2,If else and data types
+2025-12-10,Python Practice,240,2,Data structures and practice
+2025-12-11,Pandas,240,4,Data handling was difficult
+2025-12-11,Environment Setup (Miniconda),120,4,Installation and setup issues
