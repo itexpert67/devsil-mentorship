@@ -3,7 +3,18 @@
 **Author:** Farooq Shah  
 **Organization:** DEVSIL (SMC-PRIVATE) LIMITED  
 **Project Type:** Data Analytics + Streamlit Web App  
-**Live Demo:** [autoeda.streamlit.app](href="https://farooq-eda-tool.streamlit.app")
+[![Live Demo](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://farooq-eda-tool.streamlit.app)
+```
+
+This shows the Streamlit badge on your GitHub repo — people click it and go straight to the live app.
+
+---
+
+**On your portfolio**
+
+Go to `farooqshah.devsil.com` and find the project card for this project. Add the Streamlit URL as the link:
+```
+https://farooq-eda-tool.streamlit.app
 
 ---
 
