@@ -3,7 +3,7 @@
 **Author:** Farooq Shah  
 **Organization:** DEVSIL (SMC-PRIVATE) LIMITED  
 **Project Type:** Data Analytics + Streamlit Web App  
-**Live Demo:** [autoeda.streamlit.app](https://your-app-link.streamlit.app)
+**Live Demo:** [autoeda.streamlit.app](href="https://farooq-eda-tool.streamlit.app")
 
 ---
 
