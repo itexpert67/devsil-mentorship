@@ -3,7 +3,7 @@ pandas
 textblob
 scikit-learn
 streamlit
-plotly
+plotly as px
 wordcloud
 matplotlib
 spacy
