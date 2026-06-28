@@ -1,5 +1,4 @@
 import streamlit as st
-import plotly.graph_objects as go
 import pandas as pd
 import matplotlib.pyplot as plt
 from wordcloud import WordCloud
